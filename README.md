@@ -7,7 +7,7 @@ This is advised to be used in public places, medical facilities.
 <h3> Materials </h3>
 <h6> Hardware</h6>
 <ul>
-  <li>Arduino Uno (or any Nano)</li>
+  <li>Arduino Uno (or Nano)</li>
   <li>Solenoid Valve (Alternatives: Pump, or coils + neodymium magnet + creativity)</li>
   <li>Ultrasonic Sensor</li>
   <li>Relay Switch</li>
