@@ -9,6 +9,7 @@ Due to the COVID pandemic, a hand free, a simple, wall-attached alcohol dispense
   <li>Ultrasonic Sensor</li>
   <li>Relay Switch</li>
   <li>Wires</li>
+  <li>Plastic Container (Optional)</li>
 </ul>
 
 <h6> Software</h6>
