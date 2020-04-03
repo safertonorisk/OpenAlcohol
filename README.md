@@ -1,5 +1,6 @@
 # OpenAlcohol
-Due to the COVID pandemic, a hand free, a simple, wall-attached alcohol dispenser was designed. 
+Due to the COVID pandemic, a handsfree, a simple, wall-attached alcohol dispenser was designed to prevent further contamination and help people disinfect without holding the container of the disinfectant. This is an open source creation and you may use this for designing your own handsfree disinfectant dispenser.
+
 
 <h3> Materials </h3>
 <h6> Hardware</h6>
@@ -15,5 +16,11 @@ Due to the COVID pandemic, a hand free, a simple, wall-attached alcohol dispense
 <h6> Software</h6>
 <ul>
   <li>Arduino IDE</li>
-  <li>NewPing Library</li>
+  <li><a href="https://bitbucket.org/teckel12/arduino-new-ping/downloads/">NewPing</a> Library</li>
 </ul>
+<h3>Installation</h3>
+<h6> Hardware</h6>
+Use foam tape to attach to smooth wall/door surface.
+
+<h6> Software</h6>
+Use the Arduino sketch in the Software and install the NewPing.h in your Arduino IDE. This is done by going to Sketch > Include Library > Add .ZIP File and choose the zip file downloaded. Choose the correct COM port for the Arduino and upload sketch.
