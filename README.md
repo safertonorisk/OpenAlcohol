@@ -20,6 +20,10 @@ This is advised to be used in public places, medical facilities.
   <li>Arduino IDE</li>
   <li><a href="https://bitbucket.org/teckel12/arduino-new-ping/downloads/">NewPing</a> Library</li>
 </ul>
+<h6> Power Supply</h6>
+<ul>
+  <li>5V</li>
+</ul>
 <h3>Installation</h3>
 <h6> Hardware</h6>
 Use foam tape to attach to smooth wall/door surface.
