@@ -1,5 +1,5 @@
 # OpenAlcohol
-Due to the COVID-19 pandemic, a handsfree, a simple, wall-attached alcohol dispenser was designed to help prevent further contamination and help people disinfect without holding the container of the disinfectant. This is an open source creation and you may use this for designing your own handsfree disinfectant dispenser.
+Due to the COVID-19 pandemic, a handsfree, simple, wall-attached alcohol dispenser was designed to help prevent further contamination and help people disinfect without holding the container of the disinfectant. This is an open source creation and you may use this for designing your own handsfree disinfectant dispenser.
 
 
 <h3> Materials </h3>
