@@ -29,4 +29,4 @@ This is advised to be used in public places, medical facilities.
 Use foam tape to attach to smooth wall/door surface.
 
 <h6> Software</h6>
-Open the Arduino sketch in the Software folder of this repository using Arduino IDE. Install the NewPing.h in your Arduino IDE. This is done by going to <b>Sketch > Include Library > Add .ZIP File </b> and choose the zip file downloaded. Choose the correct COM port for the Arduino and upload sketch.
+Download and open the Arduino sketch in the Software folder of this repository using Arduino IDE. Install the NewPing.h in your Arduino IDE. This is done by going to <b>Sketch > Include Library > Add .ZIP File </b> and choose the zip file downloaded. Choose the correct COM port for the Arduino and upload sketch.
