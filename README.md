@@ -1,5 +1,5 @@
 # OpenAlcohol
-Due to the COVID pandemic, a hand free, a simple, wall-attached alcohol dispenser was designed by Kristofer Sano.
+Due to the COVID pandemic, a hand free, a simple, wall-attached alcohol dispenser was designed. 
 
 <h3> Materials </h3>
 <h6> Hardware</h6>
