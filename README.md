@@ -23,4 +23,4 @@ Due to the COVID pandemic, a handsfree, a simple, wall-attached alcohol dispense
 Use foam tape to attach to smooth wall/door surface.
 
 <h6> Software</h6>
-Use the Arduino sketch in the Software and install the NewPing.h in your Arduino IDE. This is done by going to Sketch > Include Library > Add .ZIP File and choose the zip file downloaded. Choose the correct COM port for the Arduino and upload sketch.
+Use the Arduino sketch in the Software and install the NewPing.h in your Arduino IDE. This is done by going to <b>Sketch > Include Library > Add .ZIP File </b> and choose the zip file downloaded. Choose the correct COM port for the Arduino and upload sketch.
