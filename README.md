@@ -30,9 +30,10 @@ This is advised to be used in public places, medical facilities.
   <li>Arduino D2 - Relay Coil SIG</li>
   <li>Arduino D7 - Ultrasonic ECHO</li>
   <li>Arduino D8 - Ultrasonic TRIG</li>
-  <li>Arduino GND - Relay Coil GND, Ultrasonic GND, Pump/Valve GND</li>
-  <li>Arduino 5V - Ultrasonic VCC, Relay COMMON PORT</li>
-  <li>Relay NC - Pump/Valve VCC</li>
+  <li>Arduino GND - Relay Coil GND, Ultrasonic GND, Relay COMMON PORT</li>
+  <li>Arduino 5V - Ultrasonic VCC</li>
+  <li>Arduino VIN - Pump/Valve VIN </li>
+  <li>Relay NC - Pump/Valve GND</li>
 </ul>
 
 <h3>Installation</h3>
