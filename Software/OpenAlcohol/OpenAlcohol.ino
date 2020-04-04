@@ -1,5 +1,5 @@
 #include <NewPing.h>
-NewPing sens(7,8,20);
+NewPing sens(8,7,20);
 void setup() {
   // put your setup code here, to run once:
   pinMode(2,OUTPUT);
