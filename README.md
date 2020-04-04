@@ -26,7 +26,15 @@ This is advised to be used in public places, medical facilities.
 </ul>
 <h3>Installation</h3>
 <h6> Hardware</h6>
-Use foam tape to attach to smooth wall/door surface.
+<ul>
+  <li>Connect wires according to the diagram:</li>
+  <img src="Hardware/Fritzing Schematics.PNG"/>
+  <li>Connect data/power cord to Arduino and upload to Arduino.</li>
+  <li>Attach the solenoid valve/pump to the alcohol container</li>
+  <li>Use foam tape to attach to smooth wall/door surface.</li>
+  <li>Reconnect power cord to power supply</li>
+</ul>
+
 
 <h6> Software</h6>
 Download and open the Arduino sketch in the Software folder of this repository using Arduino IDE. Install the NewPing.h in your Arduino IDE. This is done by going to <b>Sketch > Include Library > Add .ZIP File </b> and choose the zip file downloaded. Choose the correct COM port for the Arduino and upload sketch.
