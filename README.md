@@ -24,13 +24,17 @@ This is advised to be used in public places, medical facilities.
 <ul>
   <li>5V</li>
 </ul>
+
 <h3>Pin Configuration</h3>
 <ul>
-  <li>Arduino D2-Relay Signal</li>
-  <li>Arduino D7-ECHO</li>
-  <li>Arduino D8-TRIG</li>
-  <li></li>
+  <li>Arduino D2 - Relay Coil SIG</li>
+  <li>Arduino D7 - Ultrasonic ECHO</li>
+  <li>Arduino D8 - Ultrasonic TRIG</li>
+  <li>Arduino GND - Relay Coil GND, Ultrasonic GND, Pump/Valve GND</li>
+  <li>Arduino 5V - Ultrasonic VCC, Relay COMMON PORT</li>
+  <li>Relay NC - Pump/Valve VCC</li>
 </ul>
+
 <h3>Installation</h3>
 <h6> Hardware</h6>
 <ul>
@@ -41,7 +45,6 @@ This is advised to be used in public places, medical facilities.
   <li>Use foam tape to attach to smooth wall/door surface.</li>
   <li>Reconnect power cord to power supply</li>
 </ul>
-
 
 <h6> Software</h6>
 Download and open the Arduino sketch in the Software folder of this repository using Arduino IDE. Install the NewPing.h in your Arduino IDE. This is done by going to <b>Sketch > Include Library > Add .ZIP File </b> and choose the zip file downloaded. Choose the correct COM port for the Arduino and upload sketch.
