@@ -24,6 +24,10 @@ This is advised to be used in public places, medical facilities.
 <ul>
   <li>5V</li>
 </ul>
+<h3>Pin Configuration</h3>
+<ul>
+  <li></li>
+</ul>
 <h3>Installation</h3>
 <h6> Hardware</h6>
 <ul>
