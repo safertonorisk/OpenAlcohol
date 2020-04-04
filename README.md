@@ -26,6 +26,9 @@ This is advised to be used in public places, medical facilities.
 </ul>
 <h3>Pin Configuration</h3>
 <ul>
+  <li>Arduino D2-Relay Signal</li>
+  <li>Arduino D7-ECHO</li>
+  <li>Arduino D8-TRIG</li>
   <li></li>
 </ul>
 <h3>Installation</h3>
